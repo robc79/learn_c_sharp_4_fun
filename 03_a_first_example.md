@@ -7,7 +7,7 @@ Here we are introduced to a first C# program that says hello to the world.
 ```csharp
 void Main()
 {
-	Console.WriteLine("Hello, world!");
+    Console.WriteLine("Hello, world!");
 }
 
 // You can define other methods, fields, classes and namespaces here
@@ -50,7 +50,7 @@ more depth very soon.
 This opening brace defines the start of the `Main` method.
 
 ```csharp
-	Console.WriteLine("Hello, world!");
+    Console.WriteLine("Hello, world!");
 ```
 
 This line is part of the `Main` method because it appears between the opening

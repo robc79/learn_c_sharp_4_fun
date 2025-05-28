@@ -9,18 +9,18 @@ are introduced to a simple `Greeter` class that says hello to a person.
 ```csharp
 void Main()
 {
-	var helloGreeter = new Greeter();
-	helloGreeter.Greet("Steve");
+    var helloGreeter = new Greeter();
+    helloGreeter.Greet("Steve");
 }
 
 // You can define other methods, fields, classes and namespaces here
 
 public class Greeter
 {
-	public void Greet(string name)
-	{
-		Console.WriteLine($"Hello there, {name}!");
-	}
+    public void Greet(string name)
+    {
+        Console.WriteLine($"Hello there, {name}!");
+    }
 }
 ```
 
