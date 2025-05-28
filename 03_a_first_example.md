@@ -99,3 +99,8 @@ Re-run your program. What is output in the results pane?
 5. Add the brace back in. Write a new line of code under the existing
 `Console.WriteLine` but before the closing brace `}`. This line of code should
 print out the message `Ready?, Let's go!` when the program is re-run.
+
+
+## Next
+
+Coming soon!

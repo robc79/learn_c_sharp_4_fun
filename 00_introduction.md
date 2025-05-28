@@ -54,3 +54,7 @@ times as you need to get a working solution. Programming is often about
 perseverance!
 
 When you have exhausted an example, you are ready to move on to the next.
+
+## Next
+
+[What is programming?](01_what_is_programming.md)

@@ -52,3 +52,7 @@ You should now be greeted by a screen like this:
 
 ???
 
+
+## Next
+
+[A first example](03_a_first_example.md)
