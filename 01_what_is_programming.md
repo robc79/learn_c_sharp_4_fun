@@ -74,7 +74,6 @@ C# .NET can be used to make games, websites, applications, and more. But before
 you can run, you need to walk. In fact to start with it may seem like more of a
 crawl! Stick with it however, and a world of fun projects is open to you.
 
-
 ## Next
 
 [Setting things up](02_setting_things_up.md)

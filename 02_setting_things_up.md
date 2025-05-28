@@ -50,8 +50,11 @@ You should now be greeted by a screen like this:
 
 ### Finding your way around
 
-???
-
+There are three _panes_ displayed in the LinqPad main window. The top left pane
+is for connections to databases, which we will not be using. The pane below that
+is a simple file browser for seeing your saved code snippets. Here you can open
+saved work and save new files. The final and biggest pane is the editor. This is
+where you type in your program code.
 
 ## Next
 

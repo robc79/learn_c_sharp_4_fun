@@ -100,7 +100,6 @@ Re-run your program. What is output in the results pane?
 `Console.WriteLine` but before the closing brace `}`. This line of code should
 print out the message `Ready?, Let's go!` when the program is re-run.
 
-
 ## Next
 
 Coming soon!
