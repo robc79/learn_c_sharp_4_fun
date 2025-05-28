@@ -2,7 +2,8 @@
 
 C# uses a style of programming called OOP (Object Oriented Programming). This
 style revolves around two core things - classes and objects. In this listing we
-are introduced to a simple `Greeter` class that says hello to a person.
+are introduced to a simple `Greeter` class that says hello to a person. We also
+see how to make an object and call its methods.
 
 ## Listing
 
