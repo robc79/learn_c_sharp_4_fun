@@ -1,5 +1,7 @@
 # [3] A first example
 
+Here we are introduced to a first C# program that says hello to the world.
+
 ## Listing
 
 ```csharp
@@ -102,4 +104,4 @@ print out the message `Ready?, Let's go!` when the program is re-run.
 
 ## Next
 
-Coming soon!
+[Classes and objects](04_classes_and_objects.md)
